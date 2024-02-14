@@ -1,0 +1,36 @@
+﻿/* Style for the search form */
+.form-control {
+    width: 100%;
+}
+
+.input-group-text {
+    background-color: #e9ecef; /* Use a color of your choice */
+}
+
+.btn-success {
+    margin-top: 10px;
+}
+
+/* Style for the product cards */
+.card {
+    width: 16rem;
+    margin: 0.5rem;
+}
+
+.image-home {
+    max-height: 150px; /* Adjust the height as needed */
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+
+.btn-primary {
+    margin-top: 10px;
+}
